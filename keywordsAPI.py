@@ -125,7 +125,7 @@ urls = (
 )
 
 allowed = (
-    ('maverickMehul', '__ARDF5ojo')
+    ('maverickMehul', 'yellowSub')
 )
 
 class Keywords:
